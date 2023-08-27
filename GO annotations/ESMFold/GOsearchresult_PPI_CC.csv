@@ -1,0 +1,121 @@
+GO:0044464	C	0.90	cell part
+GO:0044424	C	0.81	intracellular part
+GO:0043226	C	0.51	organelle
+GO:0043229	C	0.49	intracellular organelle
+GO:0043227	C	0.48	membrane-bounded organelle
+GO:0043231	C	0.46	intracellular membrane-bounded organelle
+GO:0044444	C	0.36	cytoplasmic part
+GO:0044422	C	0.33	organelle part
+GO:0044446	C	0.32	intracellular organelle part
+GO:0005634	C	0.32	nucleus
+GO:0032991	C	0.30	macromolecular complex
+GO:0043234	C	0.26	protein complex
+GO:0005737	C	0.24	cytoplasm
+GO:0044428	C	0.19	nuclear part
+GO:0016020	C	0.15	membrane
+GO:0005829	C	0.14	cytosol
+GO:0044425	C	0.13	membrane part
+GO:0044427	C	0.10	chromosomal part
+GO:0044459	C	0.09	plasma membrane part
+GO:0044421	C	0.09	extracellular region part
+GO:0005654	C	0.09	nucleoplasm
+GO:0005886	C	0.08	plasma membrane
+GO:0043232	C	0.07	intracellular non-membrane-bounded organelle
+GO:0042555	C	0.07	MCM complex
+GO:0016021	C	0.07	integral component of membrane
+GO:0005739	C	0.07	mitochondrion
+GO:0044454	C	0.06	nuclear chromosome part
+GO:0031226	C	0.06	intrinsic component of plasma membrane
+GO:1902494	C	0.05	catalytic complex
+GO:0044430	C	0.05	cytoskeletal part
+GO:0031988	C	0.05	membrane-bounded vesicle
+GO:0005887	C	0.05	integral component of plasma membrane
+GO:0070062	C	0.04	extracellular exosome
+GO:0005783	C	0.04	endoplasmic reticulum
+GO:0005773	C	0.04	vacuole
+GO:0005615	C	0.04	extracellular space
+GO:0000785	C	0.04	chromatin
+GO:0098796	C	0.03	membrane protein complex
+GO:0098590	C	0.03	plasma membrane region
+GO:0097458	C	0.03	neuron part
+GO:0070013	C	0.03	intracellular organelle lumen
+GO:0048471	C	0.03	perinuclear region of cytoplasm
+GO:0044445	C	0.03	cytosolic part
+GO:0044429	C	0.03	mitochondrial part
+GO:0042995	C	0.03	cell projection
+GO:0031090	C	0.03	organelle membrane
+GO:0030529	C	0.03	intracellular ribonucleoprotein complex
+GO:0030054	C	0.03	cell junction
+GO:0005875	C	0.03	microtubule associated complex
+GO:0005794	C	0.03	Golgi apparatus
+GO:0000781	C	0.03	chromosome, telomeric region
+GO:1990234	C	0.02	transferase complex
+GO:0098588	C	0.02	bounding membrane of organelle
+GO:0044451	C	0.02	nucleoplasm part
+GO:0044431	C	0.02	Golgi apparatus part
+GO:0032299	C	0.02	ribonuclease H2 complex
+GO:0016324	C	0.02	apical plasma membrane
+GO:0009897	C	0.02	external side of plasma membrane
+GO:0005971	C	0.02	ribonucleoside-diphosphate reductase complex
+GO:0005925	C	0.02	focal adhesion
+GO:0005911	C	0.02	cell-cell junction
+GO:0005856	C	0.02	cytoskeleton
+GO:0005764	C	0.02	lysosome
+GO:0005759	C	0.02	mitochondrial matrix
+GO:0005730	C	0.02	nucleolus
+GO:0005663	C	0.02	DNA replication factor C complex
+GO:0005576	C	0.02	extracellular region
+GO:0000790	C	0.02	nuclear chromatin
+GO:0000784	C	0.02	nuclear chromosome, telomeric region
+GO:0098858	C	0.01	actin-based cell projection
+GO:0098802	C	0.01	plasma membrane receptor complex
+GO:0097525	C	0.01	spliceosomal snRNP complex
+GO:0097362	C	0.01	MCM8-MCM9 complex
+GO:0071013	C	0.01	catalytic step 2 spliceosome
+GO:0070382	C	0.01	exocytic vesicle
+GO:0061695	C	0.01	transferase complex, transferring phosphorus-containing groups
+GO:0045171	C	0.01	intercellular bridge
+GO:0044456	C	0.01	synapse part
+GO:0043596	C	0.01	nuclear replication fork
+GO:0043202	C	0.01	lysosomal lumen
+GO:0043025	C	0.01	neuronal cell body
+GO:0042579	C	0.01	microbody
+GO:0036464	C	0.01	cytoplasmic ribonucleoprotein granule
+GO:0036053	C	0.01	glomerular endothelium fenestra
+GO:0035861	C	0.01	site of double-strand break
+GO:0032153	C	0.01	cell division site
+GO:0031463	C	0.01	Cul3-RING ubiquitin ligase complex
+GO:0031298	C	0.01	replication fork protection complex
+GO:0031252	C	0.01	cell leading edge
+GO:0031234	C	0.01	extrinsic component of cytoplasmic side of plasma membrane
+GO:0031012	C	0.01	extracellular matrix
+GO:0030426	C	0.01	growth cone
+GO:0030425	C	0.01	dendrite
+GO:0030424	C	0.01	axon
+GO:0030018	C	0.01	Z disc
+GO:0016605	C	0.01	PML body
+GO:0016529	C	0.01	sarcoplasmic reticulum
+GO:0016363	C	0.01	nuclear matrix
+GO:0016235	C	0.01	aggresome
+GO:0015629	C	0.01	actin cytoskeleton
+GO:0009986	C	0.01	cell surface
+GO:0009925	C	0.01	basal plasma membrane
+GO:0005938	C	0.01	cell cortex
+GO:0005874	C	0.01	microtubule
+GO:0005871	C	0.01	kinesin complex
+GO:0005868	C	0.01	cytoplasmic dynein complex
+GO:0005813	C	0.01	centrosome
+GO:0005796	C	0.01	Golgi lumen
+GO:0005789	C	0.01	endoplasmic reticulum membrane
+GO:0005774	C	0.01	vacuolar membrane
+GO:0005768	C	0.01	endosome
+GO:0005743	C	0.01	mitochondrial inner membrane
+GO:0005694	C	0.01	chromosome
+GO:0005662	C	0.01	DNA replication factor A complex
+GO:0005656	C	0.01	nuclear pre-replicative complex
+GO:0005635	C	0.01	nuclear envelope
+GO:0005623	C	0.01	cell
+GO:0005622	C	0.01	intracellular
+GO:0000347	C	0.01	THO complex
+GO:0000276	C	0.01	mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)
+GO:0000139	C	0.01	Golgi membrane

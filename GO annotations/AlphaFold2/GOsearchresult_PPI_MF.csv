@@ -1,0 +1,179 @@
+GO:0003824	F	0.55	catalytic activity
+GO:0016740	F	0.24	transferase activity
+GO:1901363	F	0.21	heterocyclic compound binding
+GO:0097159	F	0.21	organic cyclic compound binding
+GO:0016787	F	0.18	hydrolase activity
+GO:0003676	F	0.17	nucleic acid binding
+GO:0016772	F	0.13	transferase activity, transferring phosphorus-containing groups
+GO:0016462	F	0.12	pyrophosphatase activity
+GO:0016301	F	0.12	kinase activity
+GO:0003677	F	0.12	DNA binding
+GO:0017111	F	0.11	nucleoside-triphosphatase activity
+GO:0044877	F	0.10	macromolecular complex binding
+GO:0016491	F	0.10	oxidoreductase activity
+GO:0016887	F	0.09	ATPase activity
+GO:0003723	F	0.07	RNA binding
+GO:0003682	F	0.07	chromatin binding
+GO:0046872	F	0.06	metal ion binding
+GO:0042623	F	0.06	ATPase activity, coupled
+GO:0019205	F	0.06	nucleobase-containing compound kinase activity
+GO:0042802	F	0.05	identical protein binding
+GO:0016773	F	0.05	phosphotransferase activity, alcohol group as acceptor
+GO:0016757	F	0.05	transferase activity, transferring glycosyl groups
+GO:0008094	F	0.05	DNA-dependent ATPase activity
+GO:0003700	F	0.05	transcription factor activity, sequence-specific DNA binding
+GO:0098772	F	0.04	molecular function regulator
+GO:0043565	F	0.04	sequence-specific DNA binding
+GO:0036094	F	0.04	small molecule binding
+GO:0019899	F	0.04	enzyme binding
+GO:0016788	F	0.04	hydrolase activity, acting on ester bonds
+GO:0016776	F	0.04	phosphotransferase activity, phosphate group as acceptor
+GO:0005102	F	0.04	receptor binding
+GO:0003697	F	0.04	single-stranded DNA binding
+GO:0003690	F	0.04	double-stranded DNA binding
+GO:0003678	F	0.04	DNA helicase activity
+GO:1990837	F	0.03	sequence-specific double-stranded DNA binding
+GO:0046914	F	0.03	transition metal ion binding
+GO:0044822	F	0.03	poly(A) RNA binding
+GO:0044212	F	0.03	transcription regulatory region DNA binding
+GO:0042803	F	0.03	protein homodimerization activity
+GO:0032555	F	0.03	purine ribonucleotide binding
+GO:0032403	F	0.03	protein complex binding
+GO:0030234	F	0.03	enzyme regulator activity
+GO:0019136	F	0.03	deoxynucleoside kinase activity
+GO:0016763	F	0.03	transferase activity, transferring pentosyl groups
+GO:0009041	F	0.03	uridylate kinase activity
+GO:0008168	F	0.03	methyltransferase activity
+GO:0005215	F	0.03	transporter activity
+GO:0004871	F	0.03	signal transducer activity
+GO:0004798	F	0.03	thymidylate kinase activity
+GO:0004672	F	0.03	protein kinase activity
+GO:0004518	F	0.03	nuclease activity
+GO:0004003	F	0.03	ATP-dependent DNA helicase activity
+GO:0046316	F	0.02	gluconokinase activity
+GO:0043138	F	0.02	3'-5' DNA helicase activity
+GO:0042393	F	0.02	histone binding
+GO:0035639	F	0.02	purine ribonucleoside triphosphate binding
+GO:0032550	F	0.02	purine ribonucleoside binding
+GO:0030246	F	0.02	carbohydrate binding
+GO:0022804	F	0.02	active transmembrane transporter activity
+GO:0019904	F	0.02	protein domain specific binding
+GO:0016874	F	0.02	ligase activity
+GO:0016758	F	0.02	transferase activity, transferring hexosyl groups
+GO:0016616	F	0.02	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0015077	F	0.02	monovalent inorganic cation transmembrane transporter activity
+GO:0008757	F	0.02	S-adenosylmethionine-dependent methyltransferase activity
+GO:0008479	F	0.02	queuine tRNA-ribosyltransferase activity
+GO:0008270	F	0.02	zinc ion binding
+GO:0008194	F	0.02	UDP-glycosyltransferase activity
+GO:0008134	F	0.02	transcription factor binding
+GO:0008092	F	0.02	cytoskeletal protein binding
+GO:0005198	F	0.02	structural molecule activity
+GO:0004888	F	0.02	transmembrane signaling receptor activity
+GO:0004748	F	0.02	ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor
+GO:0004674	F	0.02	protein serine/threonine kinase activity
+GO:0004523	F	0.02	RNA-DNA hybrid ribonuclease activity
+GO:0004497	F	0.02	monooxygenase activity
+GO:0004175	F	0.02	endopeptidase activity
+GO:0003777	F	0.02	microtubule motor activity
+GO:0003712	F	0.02	transcription cofactor activity
+GO:0003689	F	0.02	DNA clamp loader activity
+GO:0000977	F	0.02	RNA polymerase II regulatory region sequence-specific DNA binding
+GO:0000287	F	0.02	magnesium ion binding
+GO:1901681	F	0.01	sulfur compound binding
+GO:0097100	F	0.01	supercoiled DNA binding
+GO:0061630	F	0.01	ubiquitin protein ligase activity
+GO:0061134	F	0.01	peptidase regulator activity
+GO:0050699	F	0.01	WW domain binding
+GO:0050662	F	0.01	coenzyme binding
+GO:0046982	F	0.01	protein heterodimerization activity
+GO:0046933	F	0.01	proton-transporting ATP synthase activity, rotational mechanism
+GO:0046523	F	0.01	S-methyl-5-thioribose-1-phosphate isomerase activity
+GO:0043140	F	0.01	ATP-dependent 3'-5' DNA helicase activity
+GO:0043047	F	0.01	single-stranded telomeric DNA binding
+GO:0042277	F	0.01	peptide binding
+GO:0035198	F	0.01	miRNA binding
+GO:0035064	F	0.01	methylated histone binding
+GO:0033613	F	0.01	activating transcription factor binding
+GO:0031625	F	0.01	ubiquitin protein ligase binding
+GO:0031593	F	0.01	polyubiquitin binding
+GO:0031419	F	0.01	cobalamin binding
+GO:0031406	F	0.01	carboxylic acid binding
+GO:0031386	F	0.01	protein tag
+GO:0030551	F	0.01	cyclic nucleotide binding
+GO:0030337	F	0.01	DNA polymerase processivity factor activity
+GO:0019901	F	0.01	protein kinase binding
+GO:0019838	F	0.01	growth factor binding
+GO:0019003	F	0.01	GDP binding
+GO:0017116	F	0.01	single-stranded DNA-dependent ATP-dependent DNA helicase activity
+GO:0016877	F	0.01	ligase activity, forming carbon-sulfur bonds
+GO:0016702	F	0.01	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen
+GO:0016651	F	0.01	oxidoreductase activity, acting on NAD(P)H
+GO:0016628	F	0.01	oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor
+GO:0016423	F	0.01	tRNA (guanine) methyltransferase activity
+GO:0016209	F	0.01	antioxidant activity
+GO:0015631	F	0.01	tubulin binding
+GO:0015389	F	0.01	pyrimidine- and adenine-specific:sodium symporter activity
+GO:0015211	F	0.01	purine nucleoside transmembrane transporter activity
+GO:0015020	F	0.01	glucuronosyltransferase activity
+GO:0009931	F	0.01	calcium-dependent protein serine/threonine kinase activity
+GO:0009378	F	0.01	four-way junction helicase activity
+GO:0008574	F	0.01	ATP-dependent microtubule motor activity, plus-end-directed
+GO:0008528	F	0.01	G-protein coupled peptide receptor activity
+GO:0008410	F	0.01	CoA-transferase activity
+GO:0008408	F	0.01	3'-5' exonuclease activity
+GO:0008395	F	0.01	steroid hydroxylase activity
+GO:0008392	F	0.01	arachidonic acid epoxygenase activity
+GO:0008301	F	0.01	DNA binding, bending
+GO:0008289	F	0.01	lipid binding
+GO:0008237	F	0.01	metallopeptidase activity
+GO:0008144	F	0.01	drug binding
+GO:0008083	F	0.01	growth factor activity
+GO:0008080	F	0.01	N-acetyltransferase activity
+GO:0005539	F	0.01	glycosaminoglycan binding
+GO:0005525	F	0.01	GTP binding
+GO:0005524	F	0.01	ATP binding
+GO:0005516	F	0.01	calmodulin binding
+GO:0005509	F	0.01	calcium ion binding
+GO:0005484	F	0.01	SNAP receptor activity
+GO:0005201	F	0.01	extracellular matrix structural constituent
+GO:0005178	F	0.01	integrin binding
+GO:0005123	F	0.01	death receptor binding
+GO:0005096	F	0.01	GTPase activator activity
+GO:0005085	F	0.01	guanyl-nucleotide exchange factor activity
+GO:0004857	F	0.01	enzyme inhibitor activity
+GO:0004799	F	0.01	thymidylate synthase activity
+GO:0004797	F	0.01	thymidine kinase activity
+GO:0004715	F	0.01	non-membrane spanning protein tyrosine kinase activity
+GO:0004702	F	0.01	receptor signaling protein serine/threonine kinase activity
+GO:0004693	F	0.01	cyclin-dependent protein serine/threonine kinase activity
+GO:0004683	F	0.01	calmodulin-dependent protein kinase activity
+GO:0004653	F	0.01	polypeptide N-acetylgalactosaminyltransferase activity
+GO:0004550	F	0.01	nucleoside diphosphate kinase activity
+GO:0004422	F	0.01	hypoxanthine phosphoribosyltransferase activity
+GO:0004336	F	0.01	galactosylceramidase activity
+GO:0004198	F	0.01	calcium-dependent cysteine-type endopeptidase activity
+GO:0004170	F	0.01	dUTP diphosphatase activity
+GO:0004138	F	0.01	deoxyguanosine kinase activity
+GO:0004137	F	0.01	deoxycytidine kinase activity
+GO:0004114	F	0.01	3',5'-cyclic-nucleotide phosphodiesterase activity
+GO:0003924	F	0.01	GTPase activity
+GO:0003910	F	0.01	DNA ligase (ATP) activity
+GO:0003896	F	0.01	DNA primase activity
+GO:0003886	F	0.01	DNA (cytosine-5-)-methyltransferase activity
+GO:0003779	F	0.01	actin binding
+GO:0003735	F	0.01	structural constituent of ribosome
+GO:0003730	F	0.01	mRNA 3'-UTR binding
+GO:0003727	F	0.01	single-stranded RNA binding
+GO:0003714	F	0.01	transcription corepressor activity
+GO:0003713	F	0.01	transcription coactivator activity
+GO:0003688	F	0.01	DNA replication origin binding
+GO:0003684	F	0.01	damaged DNA binding
+GO:0002020	F	0.01	protease binding
+GO:0001517	F	0.01	N-acetylglucosamine 6-O-sulfotransferase activity
+GO:0001085	F	0.01	RNA polymerase II transcription factor binding
+GO:0001076	F	0.01	transcription factor activity, RNA polymerase II transcription factor binding
+GO:0000981	F	0.01	RNA polymerase II transcription factor activity, sequence-specific DNA binding
+GO:0000978	F	0.01	RNA polymerase II core promoter proximal region sequence-specific DNA binding
+GO:0000400	F	0.01	four-way junction DNA binding
+GO:0000049	F	0.01	tRNA binding
